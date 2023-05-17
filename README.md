@@ -1,4 +1,6 @@
 # new-shopping-bag
+révision de Vue 3 avec la création d'un panier e-commerce
+
 
 ## Project setup
 ```
